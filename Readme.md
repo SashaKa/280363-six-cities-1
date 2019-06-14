@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
 * Студент: [Sasha Katushkova](https://up.htmlacademy.ru/react/1/user/280363).
-* Наставник: `тест`.
+* Наставник: `тест2`.
 
 ---
 
